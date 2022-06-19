@@ -8,29 +8,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-module:
-  imports:
-    path: "github.com/davidsneighbour/hugo-giscus"
-    disable: false
-    ignoreConfig: false
-    ignoreImports: false
-    
-dnb:
-  giscus:
-    src: "https://giscus.app/client.js"
-    dataRepo: "mrhaydendp/mrhaydendp.github.io"
-    dataRepoId: "R_kgDOHhopag"
-    data-category: "General"
-    dataCategoryId: "DIC_kwDOHhopas4CPwZA"
-    dataMapping: "url"
-    dataReactionsEnabled: "1"
-    dataEmitMetadata: "1"
-    dataInputPosition: "bottom"
-    dataTheme: "preferred_color_scheme"
-    dataLang: "en"
-    dataLoading: "lazy"
-    crossOrigin: "anonymous"
-
 # googleAnalytics: UA-123-45
 
 minify:
