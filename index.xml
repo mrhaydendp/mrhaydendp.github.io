@@ -46,12 +46,12 @@ iwr -useb https://github.com/mrhaydendp/WinHancer/raw/master/WinHancer.ps1 | iex
     </item>
     
     <item>
-      <title>Installing Split-Apks Through ADB</title>
-      <link>https://mrhaydendp.github.io/post/installing-splitapks/</link>
+      <title>Installing Split APKs Through ADB</title>
+      <link>https://mrhaydendp.github.io/post/installing-split-apks/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mrhaydendp.github.io/post/installing-splitapks/</guid>
-      <description>How to install split-apk files through adb</description>
+      <guid>https://mrhaydendp.github.io/post/installing-split-apks/</guid>
+      <description>How to install split APKs through ADB.</description>
     </item>
     
     <item>
