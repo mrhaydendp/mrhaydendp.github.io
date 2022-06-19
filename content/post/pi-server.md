@@ -45,19 +45,3 @@ curl -fsSL https://get.icewhale.io/casaos.sh | bash
 Once installed setup a user account and start installing your favorite services.
 
 ![](../../images/casaos.png)
-
-<script src="https://giscus.app/client.js"
-        data-repo="mrhaydendp/mrhaydendp.github.io"
-        data-repo-id="R_kgDOHhopag"
-        data-category="General"
-        data-category-id="DIC_kwDOHhopas4CPwY_"
-        data-mapping="url"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
