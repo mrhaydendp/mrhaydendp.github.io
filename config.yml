@@ -9,8 +9,14 @@ buildFuture: false
 buildExpired: false
 
 module:
-
-  hugo-giscus:
+  imports:
+    path: "github.com/davidsneighbour/hugo-giscus"
+    disable: false
+    ignoreConfig: false
+    ignoreImports: false
+    
+dnb:
+  giscus:
     src: "https://giscus.app/client.js"
     dataRepo: "mrhaydendp/mrhaydendp.github.io"
     dataRepoId: "R_kgDOHhopag"
