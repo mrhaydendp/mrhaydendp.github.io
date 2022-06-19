@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mrhaydendp.github.io/sitemap.xml
