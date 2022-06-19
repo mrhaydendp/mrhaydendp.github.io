@@ -26,22 +26,22 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
-  ShowShareButtons: false
+  ShowReadingTime: false
+  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  ShowWordCount: false
-  ShowRssButtonInSectionTermList: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: true
+  comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
-
+  
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
@@ -77,10 +77,12 @@ params:
     Content: A blog for techies
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/mrhaydendp"
     - name: github
       url: "https://github.com/mrhaydendp"
+    - name: twitter
+      url: "https://twitter.com/mrhaydendp"
+    - name: rss
+      url: "index.xml"
 
   analytics:
     google:
