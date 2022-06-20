@@ -16,36 +16,6 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://mrhaydendp.github.io/about/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrhaydendp.github.io/about/</guid>
-      <description> I am a 19 year old software developer from California. I write scrips and software that are hosted on my GitHub. Since I was little I have always been fascinated with tinkering and figuring out how technology works. My strengths include the ability to work well with others, attention to detail, speedy self learning, and motivation. Portfolio Software that I am particularly proud of:
-Fire-Tools WinHancer Website </description>
-    </item>
-    
-    <item>
-      <title>Fire-Tools</title>
-      <link>https://mrhaydendp.github.io/fire-tools/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrhaydendp.github.io/fire-tools/</guid>
-      <description>Fire Tools is a powerful tool that debloats and installs Google services on Amazon Fire Tablets to make them feel snappier and increase ease of use. In addition it also supports installing custom launchers such as Nova, Lawnchair, or any .apk. If you wish to install all your own apps at once theres a batch installer. It&amp;rsquo;s as easy as dropping all your .apk &amp;amp; .apkm files in the Batch folder and clicking the Batch Install button!</description>
-    </item>
-    
-    <item>
-      <title>WinHancer</title>
-      <link>https://mrhaydendp.github.io/winhancer/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrhaydendp.github.io/winhancer/</guid>
-      <description> WinHancer - The Windows Enhancer Tool to debloat and assist with the setup of Windows
-How to Run Paste This Command Into Powershell (Admin) or Windows Terminal (Admin):
-iwr -useb https://github.com/mrhaydendp/WinHancer/raw/master/WinHancer.ps1 | iex Changes Over CTTs win10script Redesigned UI to integrate with Windows 11&amp;rsquo;s theme Tooltips when hovering over buttons Rewrote and simplified most backend functions Swapped buttons with toggles to save space Integrated my RemoveEdge script Added installers for Snappy Driver Installer Origin and MPV Added a batch install feature for Winget applications Made debloat (essential tweaks) less heavy handed </description>
-    </item>
-    
-    <item>
       <title>Installing Split APKs Through ADB</title>
       <link>https://mrhaydendp.github.io/post/installing-split-apks/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
@@ -63,6 +33,36 @@ iwr -useb https://github.com/mrhaydendp/WinHancer/raw/master/WinHancer.ps1 | iex
       <description>How to install Winget in a few simple commands.</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://mrhaydendp.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrhaydendp.github.io/about/</guid>
+      <description> I am a 19 year old software developer from California. I write scrips and software that are hosted on my GitHub. Since I was little I have always been fascinated with tinkering and figuring out how technology works. My strengths include the ability to work well with others, attention to detail, speedy self learning, and motivation. Portfolio Software that I am particularly proud of:
+Fire-Tools WinHancer Website </description>
+    </item>
+    
+    <item>
+      <title>Fire-Tools</title>
+      <link>https://mrhaydendp.github.io/fire-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrhaydendp.github.io/fire-tools/</guid>
+      <description>Fire Tools is a powerful tool that debloats and installs Google services on Amazon Fire Tablets to make them feel snappier and increase ease of use. In addition it also supports installing custom launchers such as Nova, Lawnchair, or any .apk. If you wish to install all your own apps at once theres a batch installer. It&amp;rsquo;s as easy as dropping all your .apk &amp;amp; .apkm files in the Batch folder and clicking the Batch Install button!</description>
+    </item>
+    
+    
+    <item>
+      <title>WinHancer</title>
+      <link>https://mrhaydendp.github.io/winhancer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrhaydendp.github.io/winhancer/</guid>
+      <description> WinHancer - The Windows Enhancer Tool to debloat and assist with the setup of Windows
+How to Run Paste This Command Into Powershell (Admin) or Windows Terminal (Admin):
+iwr -useb https://github.com/mrhaydendp/WinHancer/raw/master/WinHancer.ps1 | iex Changes Over CTTs win10script Redesigned UI to integrate with Windows 11&amp;rsquo;s theme Tooltips when hovering over buttons Rewrote and simplified most backend functions Swapped buttons with toggles to save space Integrated my RemoveEdge script Added installers for Snappy Driver Installer Origin and MPV Added a batch install feature for Winget applications Made debloat (essential tweaks) less heavy handed </description>
+    </item>
     
   </channel>
 </rss>

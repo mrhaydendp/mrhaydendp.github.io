@@ -23,18 +23,6 @@
     <loc>https://mrhaydendp.github.io/categories/tutorials/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mrhaydendp.github.io/about/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mrhaydendp.github.io/categories/applications/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mrhaydendp.github.io/fire-tools/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mrhaydendp.github.io/winhancer/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mrhaydendp.github.io/tags/android/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,9 +32,20 @@
     <loc>https://mrhaydendp.github.io/post/installing-winget/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://mrhaydendp.github.io/tags/macos/</loc>
+    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mrhaydendp.github.io/tags/windows/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://mrhaydendp.github.io/about/</loc>
+  </url><url>
+    <loc>https://mrhaydendp.github.io/categories/applications/</loc>
+  </url><url>
+    <loc>https://mrhaydendp.github.io/fire-tools/</loc>
+  </url><url>
     <loc>https://mrhaydendp.github.io/search/</loc>
+  </url><url>
+    <loc>https://mrhaydendp.github.io/winhancer/</loc>
   </url>
 </urlset>
