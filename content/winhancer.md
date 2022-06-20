@@ -1,10 +1,10 @@
-+++
-author = "Hayden Plumley"
-title = "WinHancer"
-date = "2022-06-15"
-aliases = ["WinHancer"]
-categories = ["Applications"]
-+++
+---
+author: "Hayden Plumley"
+title: "WinHancer"
+aliases: ["WinHancer"]
+categories: ["Applications"]
+showtoc: false
+---
 
 ## <p align="center"> WinHancer - The Windows Enhancer </p>
 Tool to debloat and assist with the setup of Windows

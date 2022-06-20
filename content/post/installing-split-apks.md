@@ -1,11 +1,11 @@
-+++
-author = "Hayden Plumley"
-title = "Installing Split APKs Through ADB"
-date = "2022-05-16"
-description = "How to install split APKs through ADB."
-tags = ["Android"]
-categories = ["Tutorials"]
-+++
+---
+author: "Hayden Plumley"
+title: "Installing Split APKs Through ADB"
+date: "2022-05-16"
+description: "How to install split APKs through ADB."
+tags: ["Android","Linux","MacOS","Windows"]
+categories: ["Tutorials"]
+---
 
 ![](../../images/dynamic-delivery.webp)
 *Gif Courtesy: [Mallow's Blog](https://blog.mallow-tech.com/)*

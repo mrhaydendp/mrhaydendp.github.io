@@ -1,11 +1,11 @@
-+++
-author = "Hayden Plumley"
-title = "Raspberry Pi Server"
-date = "2022-06-18"
-description = "How to setup DietPi & CasaOS on your Pi."
-tags = ["Linux"]
-categories = ["Tutorials"]
-+++
+---
+author: "Hayden Plumley"
+title: "Raspberry Pi Server"
+date: "2022-06-18"
+description: "How to setup DietPi & CasaOS on your Pi."
+tags: ["Linux"]
+categories: ["Tutorials"]
+---
 
 If you've ever considered running Pi-Hole, Jellyfin, or Nextcloud why shell out hundreds of dollars for a PC when you can host these services on a $45 Raspberry Pi 4. Once set-up the Pi can be a pretty amazing low powered server, especially when paired with DietPi and CasaOS. Here's what you'll need to do to install DietPi and CasaOS:
 
