@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mrhaydendp.github.io/post/adding-giscus-to-hugo-site/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mrhaydendp.github.io/categories/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mrhaydendp.github.io/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mrhaydendp.github.io/post/how-to-host-lynx/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mrhaydendp.github.io/tags/linux/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mrhaydendp.github.io/tags/macos/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mrhaydendp.github.io/post/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mrhaydendp.github.io/post/pi-server/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mrhaydendp.github.io/tags/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mrhaydendp.github.io/categories/tutorials/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mrhaydendp.github.io/post/pi-server/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mrhaydendp.github.io/tags/android/</loc>
@@ -30,9 +39,6 @@
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mrhaydendp.github.io/post/installing-winget/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mrhaydendp.github.io/tags/macos/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mrhaydendp.github.io/tags/windows/</loc>

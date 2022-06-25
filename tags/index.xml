@@ -5,13 +5,22 @@
     <link>https://mrhaydendp.github.io/tags/</link>
     <description>Recent content in Tags on Hayden&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mrhaydendp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mrhaydendp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
       <link>https://mrhaydendp.github.io/tags/linux/</link>
-      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mrhaydendp.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MacOS</title>
+      <link>https://mrhaydendp.github.io/tags/macos/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrhaydendp.github.io/tags/macos/</guid>
       <description></description>
     </item>
     
@@ -21,15 +30,6 @@
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mrhaydendp.github.io/tags/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MacOS</title>
-      <link>https://mrhaydendp.github.io/tags/macos/</link>
-      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrhaydendp.github.io/tags/macos/</guid>
       <description></description>
     </item>
     

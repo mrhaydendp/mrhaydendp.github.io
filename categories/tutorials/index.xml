@@ -5,7 +5,25 @@
     <link>https://mrhaydendp.github.io/categories/tutorials/</link>
     <description>Recent content in Tutorials on Hayden&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mrhaydendp.github.io/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mrhaydendp.github.io/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adding Giscus to your Hugo Site</title>
+      <link>https://mrhaydendp.github.io/post/adding-giscus-to-hugo-site/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrhaydendp.github.io/post/adding-giscus-to-hugo-site/</guid>
+      <description>How to use Giscus with your Hugo site.</description>
+    </item>
+    
+    <item>
+      <title>How to Host Lynx on GitHub Pages</title>
+      <link>https://mrhaydendp.github.io/post/how-to-host-lynx/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrhaydendp.github.io/post/how-to-host-lynx/</guid>
+      <description>How to setup &amp;amp; host Lynx on GitHub Pages.</description>
+    </item>
+    
     <item>
       <title>Raspberry Pi Server</title>
       <link>https://mrhaydendp.github.io/post/pi-server/</link>
