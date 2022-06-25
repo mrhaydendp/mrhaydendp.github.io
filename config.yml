@@ -92,6 +92,8 @@ params:
       url: "https://github.com/mrhaydendp"
     - name: twitter
       url: "https://twitter.com/mrhaydendp"
+    - name: lynx
+      url: "https://mrhaydendp.github.io/lynx/"
     - name: rss
       url: "index.xml"
 

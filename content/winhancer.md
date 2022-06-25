@@ -4,6 +4,7 @@ title: "WinHancer"
 aliases: ["WinHancer"]
 categories: ["Applications"]
 showtoc: false
+comments: false
 ---
 
 ## <p align="center"> WinHancer - The Windows Enhancer </p>
