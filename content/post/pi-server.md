@@ -39,9 +39,18 @@ When setup is complete open `Dietpi-Config` and navigate to Network Options: Ada
 Now the hard part is over, [CasaOS](https://casaos.io) has a very simple install. Paste this command into your Pi and watch as CasaOS gets installed:
 
 ``` bash
+# CasaOS Automated Install
 curl -fsSL https://get.icewhale.io/casaos.sh | bash 
 ```
 
 Once installed setup a user account and start installing your favorite services.
 
 ![](../../images/casaos.png)
+
+## (Optional): Enable V4L2
+If you would like to use a media server application such as Jellyfin, Emby, or Plex you will need V4L2 (Video for Linux 2) for transcoding. To get V4L2 working you'll need to enable rpi-camera and rpi-codec using this command then reboot.
+
+``` bash
+# Enable V4L2 Drivers
+/boot/dietpi/func/dietpi-set_hardware rpi-codec enable && /boot/dietpi/func/dietpi-set_hardware rpi-camera enable
+```

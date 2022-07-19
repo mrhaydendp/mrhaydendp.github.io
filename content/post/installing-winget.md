@@ -10,7 +10,7 @@ categories: ["Tutorials"]
 Winget is a package manager based of [Keivan Beigi's AppGet](https://keivan.io/the-day-appget-died/), its goal is to be a "one stop shop" to install all your Windows programs. It achieves this by having a central repository of installation scripts for all of your favorite applications such as Discord, Spotify, and Steam. As of now Winget has to be manually installed but later on it should come bundled with Windows.
 
 ## Windows Store Method
-Direct Link to Open Winget in Windows Store:
+Direct Link to Winget (AppInstaller) in Windows Store:
 
 [View in Store](ms-windows-store://pdp/?ProductId=9NBLGGH4NNS1)
 
